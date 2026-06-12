@@ -1,0 +1,8 @@
+Flask==3.0.3
+Flask-SocketIO==5.3.6
+pymongo==4.7.2
+gunicorn==21.2.0
+simple-websocket==1.1.0
+python-dotenv==1.0.1
+gevent==23.9.1
+gevent-websocket==0.36.2
